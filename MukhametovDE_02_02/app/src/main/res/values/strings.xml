@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MukhametovDE_02_02</string>
+    <string name="first_activity_header">Конвертер единиц информации</string>
+    <string name="second_activity_header">Выбор единиц информации</string>
+    <string name="hint_editText_password">Введите пароль</string>
+    <string name="hint_editText_login">Введите логин</string>
+    <string name="hint_editText_number">Введите число</string>
+    <string name="hint_editText_byte">Байт</string>
+    <string name="hint_editText_kilobyte">Килобайт</string>
+    <string name="hint_editText_result">Результат</string>
+    <string name="button_text_start">Начать</string>
+    <string name="button_text_calculate">Вычислить</string>
+    <string name="button_text_registration">Регистрация</string>
+    <string name="text_label">Введённое число</string>
+</resources>
